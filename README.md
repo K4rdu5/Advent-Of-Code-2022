@@ -6,4 +6,6 @@ Not sure how many I will manage to complete this year but I'm hopeful that I wil
 
 For solving im going to try and do the most optimal coding but my first priority is actually getting the challenges done rather than them being pretty, this is something that I'll come back to later to optimize my coding.
 
+All my solutions will be written in python.
+
 Happy coding and good luck if you're taking on some challenges aswell.
