@@ -8,4 +8,4 @@ My first priority is solving the challenges rather than finding the most optimal
 
 All my solutions will be written in python.
 
-Good luck if you're taking on some challenges aswell, Happy coding
+Good luck if you're taking on some challenges aswell, Happy coding!
