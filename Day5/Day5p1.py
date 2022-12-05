@@ -1,4 +1,4 @@
-#Day 5
+#Day 5 part 1
 with open("day5.txt", "r") as f:
     data = [line for line in f.read().split("\n\n")]
 
