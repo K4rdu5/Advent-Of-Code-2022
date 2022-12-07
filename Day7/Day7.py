@@ -16,7 +16,6 @@ for line in data:
     elif seg[0].isdigit():
         size = seg[0]
         for i in range(len(path)):
-            print(folder)
             folder["/".join(path[:i+1])] += int(size)
 print(sum(f for f in folder.values() if f <= 100000))
 
